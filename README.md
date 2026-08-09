@@ -11,13 +11,6 @@
 
 <br/>
 
-<a href="https://t.me/sd_van"><img src="https://img.shields.io/badge/Telegram-sd__van-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="telegram" /></a>
-<a href="https://instagram.com/va.ntux"><img src="https://img.shields.io/badge/Instagram-va.ntux-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/vantux"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-vantux-0d1117?style=for-the-badge&logo=linkedin-white&labelColor=161b22" alt="linkedin" /></a>
-<a href="mailto:van.tux@yandex.com"><img src="https://img.shields.io/badge/Mail-van.tux%40yandex.com-0d1117?style=for-the-badge&logo=maildotru&logoColor=00ff9d&labelColor=161b22" alt="email" /></a>
-
-<a href="tel:+998200062028"><img src="https://img.shields.io/badge/%2B998_20_006_20_28-0d1117?style=for-the-badge&labelColor=161b22" alt="phone" /></a>
-<img src="https://img.shields.io/badge/Tashkent%2C_Uzbekistan-0d1117?style=for-the-badge&labelColor=161b22" alt="location" />
 <img src="https://komarev.com/ghpvc/?username=v4ntux&style=for-the-badge&color=00ff9d&label=VIEWS" alt="profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00ff9d,50:00b4d8,100:a855f7" width="100%" alt="" />
@@ -44,6 +37,39 @@ class Van:
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:a855f7,50:00b4d8,100:00ff9d" width="100%" alt="" /></div>
+
+## <samp>$ cat /etc/contacts</samp>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="right"><a href="https://t.me/sd_van"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram" /></a></td>
+    <td><samp><a href="https://t.me/sd_van">@sd_van</a></samp></td>
+    <td align="right"><a href="https://instagram.com/va.ntux"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a></td>
+    <td><samp><a href="https://instagram.com/va.ntux">@va.ntux</a></samp></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://www.linkedin.com/in/vantux"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-white&labelColor=161b22" alt="LinkedIn" /></a></td>
+    <td><samp><a href="https://www.linkedin.com/in/vantux">in/vantux</a></samp></td>
+    <td align="right"><a href="https://leetcode.com/u/VanTux/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" alt="LeetCode" /></a></td>
+    <td><samp><a href="https://leetcode.com/u/VanTux/">/u/VanTux</a></samp></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="mailto:van.tux@yandex.com"><img src="https://img.shields.io/badge/Mail-0d1117?style=for-the-badge&logo=maildotru&logoColor=00ff9d&labelColor=161b22" alt="Mail" /></a></td>
+    <td><samp><a href="mailto:van.tux@yandex.com">van.tux@yandex.com</a></samp></td>
+    <td align="right"><a href="tel:+998200062028"><img src="https://img.shields.io/badge/Phone-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117" alt="Phone" /></a></td>
+    <td><samp><a href="tel:+998200062028">+998 20 006 20 28</a></samp></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/Base-0d1117?style=for-the-badge&labelColor=161b22" alt="Base" /></td>
+    <td colspan="3"><samp>Tashkent, Uzbekistan · UTC+5</samp></td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00b4d8,50:00ff9d,100:a855f7" width="100%" alt="" />
+
+</div>
 
 ## <samp>$ ls /skills</samp>
 
@@ -95,6 +121,16 @@ class Van:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=v4ntux&bg_color=0d1117&color=c9d1d9&line=00ff9d&point=a855f7&area=true&area_color=00b4d8&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+## <samp>$ leetcode --stats</samp>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/VanTux/"><img src="https://leetcard.jacoblin.cool/VanTux?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:a855f7,50:00ff9d,100:00b4d8" width="100%" alt="" />
 
 </div>
 
