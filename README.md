@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,25:3b0764,50:0e7490,75:00995e,100:00ff9d&text=VAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=software%20engineer%20%C2%B7%20backend%20%C2%B7%20tashkent%2C%20uz%20%F0%9F%87%BA%F0%9F%87%BF&descSize=20&descAlignY=55&section=header" width="100%" alt="VAN — backend engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,25:3b0764,50:0e7490,75:00995e,100:00ff9d&text=VAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=software%20engineer%20%C2%B7%20backend%20%C2%B7%20tashkent%2C%20%20%F0%9F%87%BA%F0%9F%87%BF&descSize=20&descAlignY=55&section=header" width="100%" alt="VAN — backend engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2400&pause=800&color=00FF9D&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+van;backend+engineer+%C2%B7+20+y.o.+%C2%B7+tashkent+%F0%9F%87%BA%F0%9F%87%BF;python+%26+C+%E2%80%94+daily+drivers+%E2%9A%A1;unix+%C2%B7+linux+%C2%B7+git+%C2%B7+docker+%F0%9F%90%B3;AI+agent+wrangler+%F0%9F%A4%96;always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing intro" />
 
