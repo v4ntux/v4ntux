@@ -57,7 +57,7 @@
 
     <g font-family="JetBrains Mono, Consolas, monospace">
       <text x="70" y="118" fill="#39D9A2" font-size="17">van@github:~$ whoami</text>
-      <text x="70" y="181" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="6">V4NTUX</text>
+      <text x="70" y="181" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="6">VAN TUX</text>
       <text x="73" y="217" fill="#8B949E" font-size="17" letter-spacing="1.5">SOFTWARE ENGINEER  /  BACKEND DEVELOPER  /  BEGINNER GAME DEVELOPER</text>
       <rect x="73" y="237" width="10" height="21" rx="1" fill="#39D9A2">
         <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite" />

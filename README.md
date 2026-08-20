@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="./assets/terminal-wave.svg" width="100%" alt="V4NTUX animated terminal banner" />
+<img src="./assets/terminal-wave.svg" width="100%" alt="VAN TUX animated terminal banner" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&color=39D9A2&center=true&vCenter=true&repeat=true&width=760&lines=software+engineer+%E2%80%A2+backend+developer;building+bots%2C+APIs+and+Mini+Apps;beginner+game+developer+%E2%80%A2+learning+in+public;python+%E2%80%A2+c+%E2%80%A2+typescript+%E2%80%A2+linux;idea+%E2%86%92+code+%E2%86%92+ship+%E2%86%92+improve" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&color=39D9A2&center=true&vCenter=true&repeat=true&width=760&lines=software+engineer+%E2%80%A2+backend+developer;beginner+game+developer;Telegram+bots+%E2%80%A2+APIs+%E2%80%A2+Mini+Apps;python+%E2%80%A2+c+%E2%80%A2+typescript+%E2%80%A2+linux" alt="Animated developer introduction" />
 
 <br />
 
 <a href="https://github.com/v4ntux?tab=followers"><img src="https://img.shields.io/github/followers/v4ntux?style=for-the-badge&logo=github&logoColor=F0F6FC&label=Followers&color=161B22" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=v4ntux&style=for-the-badge&color=00C896&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/Tashkent-UTC%2B5-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tashkent UTC+5" />
 
 </div>
@@ -23,7 +22,7 @@
 <table>
   <tr>
     <td align="center" width="190"><b>NAME</b></td>
-    <td align="left" width="520"><samp>Van · @v4ntux</samp></td>
+    <td align="left" width="520"><samp>Van Tux · @v4ntux</samp></td>
   </tr>
   <tr>
     <td align="center"><b>ROLE</b></td>
@@ -35,15 +34,11 @@
   </tr>
   <tr>
     <td align="center"><b>BUILDING</b></td>
-    <td align="left"><samp>APIs · Telegram bots · Mini Apps · automation · useful products</samp></td>
+    <td align="left"><samp>APIs · Telegram bots · Mini Apps · automation</samp></td>
   </tr>
   <tr>
     <td align="center"><b>BASE</b></td>
     <td align="left"><samp>Tashkent, Uzbekistan · UTC+5</samp></td>
-  </tr>
-  <tr>
-    <td align="center"><b>MODE</b></td>
-    <td align="left"><samp>learn → build → break → debug → ship → repeat</samp></td>
   </tr>
 </table>
 
@@ -64,8 +59,8 @@
       A beginner exploring<br />gameplay systems, loops,<br />state and engine basics.
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧠 Mindset</h3>
-      Curious, practical and<br />always ready to learn<br />through real projects.
+      <h3>📚 Learning</h3>
+      Game development,<br />Go and NASM x86-64<br />fundamentals.
     </td>
   </tr>
 </table>
@@ -218,7 +213,5 @@
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22D3EE,45:39D9A2,75:A855F7,100:0D1117&section=footer" width="100%" alt="Animated gradient footer wave" />
-
-<samp>if it can be imagined, it can be prototyped — then debugged.</samp>
 
 </div>
