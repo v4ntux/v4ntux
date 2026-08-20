@@ -29,7 +29,7 @@ class Van:
 
         self.stack = {
             "main":     ["Python", "C"],
-            "familiar": ["JavaScript", "C#", "C++", "Ruby", "HTML", "CSS"],
+            "familiar": ["JavaScript", "PHP", "Pascal", "C#", "C++", "Ruby", "HTML", "CSS"],
             "learning": ["Go", "NASM x86-64"],
         }
         self.env   = ["Linux", "Git", "Docker"]
@@ -83,12 +83,12 @@ class Van:
   </tr>
   <tr>
     <td align="right"><samp>familiar</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=js,cs,cpp,ruby,html,css&theme=dark" alt="JavaScript, C#, C++, Ruby, HTML, CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,php,cs,cpp,ruby,html,css&theme=dark" alt="JavaScript, PHP, C#, C++, Ruby, HTML, CSS" /><br/><samp>+ Pascal</samp></td>
     <td><samp>██████░░░░</samp></td>
   </tr>
   <tr>
     <td align="right"><samp>learning</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />&nbsp;<img src="https://img.shields.io/badge/NASM-x86--64-0d1117?style=for-the-badge&labelColor=161b22&color=a855f7" alt="NASM" /></td>
+    <td><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /><br/><samp>+ NASM x86-64</samp></td>
     <td><samp>███░░░░░░░</samp></td>
   </tr>
   <tr>
