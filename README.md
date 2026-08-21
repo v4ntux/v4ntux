@@ -74,12 +74,12 @@
 <table>
   <tr>
     <td align="center" width="160"><samp>MAIN</samp></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="45" alt="Python, C" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" height="45" alt="Python, C and C++" /></td>
     <td align="center"><samp>daily building</samp></td>
   </tr>
   <tr>
     <td align="center"><samp>FAMILIAR</samp></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=js,cs,cpp,ruby,html,css,ts,nodejs,nextjs,php&theme=dark" height="45" alt="JavaScript, C#, C++, Ruby, HTML, CSS , TypeScript, Node.js, Next.js and PHP" />&nbsp;<img src="https://img.shields.io/badge/Pascal-161B22?style=for-the-badge&logo=delphi&logoColor=E62431" height="45" alt="Pascal" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=js,cs,ruby,html,css,ts,nodejs,nextjs,php&theme=dark" height="45" alt="JavaScript, C#, Ruby, HTML, CSS , TypeScript, Node.js, Next.js and PHP" />&nbsp;<img src="https://img.shields.io/badge/Pascal-161B22?style=for-the-badge&logo=delphi&logoColor=E62431" height="45" alt="Pascal" /></td>
     <td align="center"><samp>worked with</samp></td>
   </tr>
   <tr>
