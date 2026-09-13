@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" align="left" valign="top">
       <h3>🪙 <a href="https://github.com/v4ntux/nCoin">nCoin</a></h3>
@@ -137,7 +137,7 @@
     </td>
   </tr>
 </table>
-
+ -->
 </div>
 
 ## <samp>04 // telemetry.live</samp>
