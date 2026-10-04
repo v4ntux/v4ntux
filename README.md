@@ -94,9 +94,9 @@
   </tr>
 </table>
 
-</div>
+</div> 
 
-## <samp>03 // featured.deployments</samp>
+<!-- ## <samp>03 // featured.deployments</samp>
 
 <div align="center">
 
@@ -138,7 +138,7 @@
   </tr>
 </table>
  -->
-</div>
+
 
 ## <samp>04 // telemetry.live</samp>
 
