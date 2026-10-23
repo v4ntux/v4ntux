@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/v4ntux?tab=followers"><img src="https://img.shields.io/github/followers/v4ntux?style=for-the-badge&logo=github&logoColor=F0F6FC&label=Followers&color=161B22" alt="GitHub followers" /></a>
-<img src="https://img.shields.io/badge/Tashkent-UTC%2B5-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tashkent UTC+5" />
+<img src="https://img.shields.io/badge/Moscow-UTC%2B5-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tashkent UTC+5" />
 
 </div>
 
